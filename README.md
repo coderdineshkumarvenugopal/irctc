@@ -1,54 +1,34 @@
-# React + TypeScript + Vite
+# Note: Requesting You to run the project locally to see the color and theme
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# login Page
+![image](https://github.com/user-attachments/assets/e6ac04fa-e6d3-44d0-92b8-a2cb0ecc5d93)
+Email:sample@gmail.com
+Password: Sample@123
 
-Currently, two official plugins are available:
+# Dashboard Page
+![image](https://github.com/user-attachments/assets/fb6fb8b2-5ada-4830-b4f0-f80b2f8ff943)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Ticket Booking Page
+![image](https://github.com/user-attachments/assets/e568f068-a24f-42cb-86f4-8dfabb58c6c8)
 
-## Expanding the ESLint configuration
+# Train Listing Page
+![image](https://github.com/user-attachments/assets/927bcea3-a9da-4c26-9c6c-365b5262b188)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# Seat Selection Page
+![image](https://github.com/user-attachments/assets/764a5bdb-33e3-477c-bda4-c84a496cca8f)
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+# Payment Page
+![image](https://github.com/user-attachments/assets/3c3bc010-39b3-49e0-8d02-fab726ae4667)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+# Booking conformation page
+![image](https://github.com/user-attachments/assets/a126c3ca-de1e-4d77-915a-b396a761a6e0)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+# AI based Chatbot page
+![image](https://github.com/user-attachments/assets/eef1e7ff-74fb-4f95-8879-94536d49a7a9)
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+# PNR STATUS Page
+![image](https://github.com/user-attachments/assets/d645257f-7eeb-4191-bfd4-aea5f94675db)
+
+# Dark Mode
+![image](https://github.com/user-attachments/assets/8d08e2aa-66f1-45e6-9802-d70d73787ca8)
+
