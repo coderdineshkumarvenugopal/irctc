@@ -1,0 +1,1 @@
+import{T as s,j as e}from"./index-D3J2a6fV.js";const n=()=>{const{Text:t}=s;return e.jsxs("div",{className:"items-center justify-center flex flex-col gap-2 justify-content pt-90",children:[e.jsx(t,{children:"Hey User there is Nothing to View"}),e.jsx(t,{children:"There is no Changes over here"}),e.jsx(t,{children:"Please take different Route"})]})};export{n as default};

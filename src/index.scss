@@ -1,0 +1,72 @@
+@import "tailwindcss";
+@import "./mixin.scss";
+.title_1_medium {
+  @include title_1_medium_mixin;
+}
+
+.title_1_semibold {
+  @include title_1_semibold_mixin;
+}
+
+.title_2_medium {
+  @include title_2_medium_mixin;
+}
+
+.title_2_semibold {
+  @include title_2_semibold_mixin;
+}
+
+.body_1_regular {
+  @include body_1_regular_mixin;
+}
+
+.body_1_medium {
+  @include body_1_medium_mixin;
+}
+
+.body_1_semibold {
+  @include body_1_semibold_mixin;
+}
+
+.body_2_regular {
+  @include body_2_regular_mixin;
+}
+
+.body_2_medium {
+  @include body_2_medium_mixin;
+}
+
+.body_2_semibold {
+  @include body_2_semibold_mixin;
+}
+
+.link_1_regular {
+  @include link_1_regular_mixin;
+}
+
+.link_1_medium {
+  @include link_1_medium_mixin;
+}
+
+.link_1_semisolid {
+  @include link_1_semisolid_mixin;
+}
+
+.link_2_regular {
+  @include link_2_regular_mixin;
+}
+
+.link_2_semibold {
+  @include link_2_semibold_mixin;
+}
+
+.caption_1_regular {
+}
+
+.caption_1_medium {
+  @include caption_1_medium_mixin;
+}
+
+.caption_2_regular {
+  @include caption_2_regular_mixin;
+}

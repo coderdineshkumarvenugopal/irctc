@@ -1,0 +1,108 @@
+@mixin title_1_medium_mixin {
+  font-size: calc(6 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(8 * 0.25rem);
+}
+
+@mixin title_1_semibold_mixin {
+  font-size: calc(6 * 0.25rem);
+  font-weight: 600;
+  line-height: calc(8 * 0.35rem);
+  font-family: Inter;
+}
+
+@mixin title_2_medium_mixin {
+  font-size: calc(4 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(7 * 0.25rem);
+}
+
+@mixin title_2_semibold_mixin {
+  font-size: calc(4 * 0.25rem);
+  font-weight: 600;
+  line-height: calc(7 * 0.25rem);
+}
+
+@mixin body_1_regular_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(6 * 0.25rem);
+}
+
+@mixin body_1_medium_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(5.5 * 0.25rem);
+}
+
+@mixin body_1_semibold_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 600;
+  line-height: calc(5.5 * 0.25rem);
+}
+
+@mixin body_2_regular_mixin {
+  font-size: calc(3.25 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(5 * 0.25rem);
+}
+
+@mixin body_2_medium_mixin {
+  font-size: calc(3.25 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(5 * 0.25rem);
+}
+
+@mixin body_2_semibold_mixin {
+  font-size: calc(3.25 * 0.25rem);
+  font-weight: 600;
+  line-height: calc(5 * 0.25rem);
+}
+
+@mixin link_1_regular_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(5.5 * 0.25rem);
+}
+
+@mixin link_1_medium_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(5.5 * 0.25rem);
+}
+
+@mixin link_1_semisolid_mixin {
+  font-size: calc(3.5 * 0.25rem);
+  font-weight: 600;
+  line-height: calc(5.5 * 0.25rem);
+}
+
+@mixin link_2_regular_mixin {
+  font-size: calc(3.25 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(5 * 0.25rem);
+}
+
+@mixin link_2_semibold_mixin {
+  font-size: calc(3 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(5 * 0.25rem);
+}
+
+@mixin caption_1_regular_mixin {
+  font-size: calc(3 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(4 * 0.25rem);
+}
+
+@mixin caption_1_medium_mixin {
+  font-size: calc(3 * 0.25rem);
+  font-weight: 500;
+  line-height: calc(3.5 * 0.25rem);
+}
+
+@mixin caption_2_regular_mixin {
+  font-size: calc(2.5 * 0.25rem);
+  font-weight: 400;
+  line-height: calc(4 * 0.25rem);
+}
